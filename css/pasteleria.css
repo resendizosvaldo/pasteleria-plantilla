@@ -1,0 +1,24 @@
+.envio-gratis {
+    font-family: 'Gotham Medium', sans-serif;
+    font-size: 1rem;
+    padding: 0.375rem 0;
+    background-color: #D8D2C4;
+    color: #8a8474;
+}
+
+.card-text {
+    font-weight: bold;
+}
+
+.btn btn-primary carrito {
+    text-align: center;
+}
+
+.titulo-categoria {
+    width: 200px;
+    height: 600px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #648fac;
+}
